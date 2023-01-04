@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 //O(n^2)
 public class Main {
+    //some change
     public static void main(String[] args) {
         final int CREATE_USER = 1;
         final int LOGIN = 2;
